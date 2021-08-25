@@ -3,3 +3,25 @@
 
 **Inspired by the Big Bang Theory**
 
+## Rules
+By staying true to the Big Band Theory, the rules is as followed:
+
+Scissors cuts Paper
+
+Paper covers Rock
+
+Rock crushes Lizard
+
+Lizard poisons Spock
+
+Spock smashes Scissors
+
+Scissors decapitates Lizard
+
+Lizard eats Paper
+
+Paper disproves Spock
+
+Spock vaporizes Rock
+
+Rock crushes Scissors
