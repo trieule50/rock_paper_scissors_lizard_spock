@@ -25,3 +25,7 @@ Paper disproves Spock
 Spock vaporizes Rock
 
 Rock crushes Scissors
+
+## Preparation
+1. Fork and clone this repository
+2. Open Live server 
