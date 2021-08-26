@@ -1,6 +1,8 @@
 body{
-    background-color: aliceblue;
     text-align: center;
+    color: rgb(238, 237, 237);
+    background: url(https://images.squarespace-cdn.com/content/v1/553f799ae4b0306c99f97080/1589692176588-VSXBV5XAB35J2RIGXJ3X/space-earth.png?format=2500w) no-repeat center center fixed;
+    background-size: cover;
 }
 
 .container{
@@ -12,8 +14,12 @@ body{
 
 .item1{
     border-radius: 65%;
-    border: black 4px solid;
+    border: rgb(238, 237, 237) 4px solid;
     padding: 1rem;
     margin: .25rem;
 }
 
+.item1:hover{
+    border-radius: 25%;
+    border: rgb(47, 196, 47) 4px solid;
+}
