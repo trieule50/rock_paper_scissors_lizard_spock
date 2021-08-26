@@ -23,3 +23,8 @@ body{
     border-radius: 25%;
     border: rgb(47, 196, 47) 4px solid;
 }
+
+.results{
+    color: black;
+    font-weight: bold;
+}
